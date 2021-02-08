@@ -7,6 +7,7 @@ Contact Manager is a simple contact management app created using ASP.Net MVC and
 The database consists of two tables: 
   - addresses
   - contact
+ ### Database Set up 
  To set up the database I downloaded Mock Data and imported it to a dbo.Mock_Data table and then used that data to populate my tables.
  Once you import the Mock Data to a database, you can use the database files included to create a Contact Management Database.
  The files are numbered in the order that they should be rolled out.
